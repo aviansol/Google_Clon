@@ -6,3 +6,6 @@ En este proyecto se analizaron las características más sencillas de la interfa
 
 ## Objetivo del proyecto
 Además de analizar la interfaz de Google, el objetivo de este proyecto es conocer el funcionamiento de html y css, para prácticar sus diferentes características y sintaxis.
+
+## Link
+Puedes ver mejor este trabajo en el siguiente link: https://famous-marigold-c6da9f.netlify.app
